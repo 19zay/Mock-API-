@@ -1,0 +1,26 @@
+{
+  "name": "clinics-api",
+  "version": "1.0.0",
+  "description": "An API containing Details of clinics using the MediSpark EMR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19zay/Clinics-using-MediSpark-EMR.git"
+  },
+  "keywords": [
+    "Medispark",
+    "Clinics"
+  ],
+  "author": "zay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19zay/Clinics-using-MediSpark-EMR/issues"
+  },
+  "homepage": "https://github.com/19zay/Clinics-using-MediSpark-EMR#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

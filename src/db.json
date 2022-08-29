@@ -1,0 +1,59 @@
+{
+    "clinics":[
+     {
+        "id": 1,
+        "clinicName": "EuraCare Multi-Specialist Hospital",
+        "stats":{
+            "rating": 4.4,
+            "reviewCount": 73
+        },
+        "location": "293 Jide Oki Street",
+        "openhours": "Open 24hrs",
+        "contact": "070038722273"
+     },
+     {
+        "id": 2,
+        "clinicName": "Family Health Hospital",
+        "stats":{
+            "rating": 4.3,
+            "reviewCount": 3 
+        },
+        "location": "Akobi Cres",
+        "openhours": "Open 24hrs",
+        "contact": ""
+     },
+     {
+        "id": 3,
+        "clinicName": "St Charles Hospital Limited",
+        "stats":{
+            "rating": 3.0,
+            "reviewCount": 1
+        },
+        "location": "56 Ayilara Street",
+        "openhours": "Open 24hrs",
+        "contact": "08033086806"
+     },
+     {
+        "id": 4,
+        "clinicName": "Serenity Hospital",
+        "stats":{
+            "rating": 3.5,
+            "reviewCount": 4
+        },
+        "location": "Near Municipal Bus Stop, 29A itire Str",
+        "openhours": "Open 24hrs",
+        "contact": "08030754976"
+     },
+     {
+        "id": 5,
+        "clinicName": "Supreme Health Hospital",
+        "stats":{
+            "rating": 3.0,
+            "reviewCount": 2
+        },
+        "location": "45/47 Karimu Street, Off Ojuelegba",
+        "openhours": "Open 24hrs",
+        "contact": "09038418099"
+     }
+    ]
+}
